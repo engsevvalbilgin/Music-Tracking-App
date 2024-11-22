@@ -1,10 +1,9 @@
 /**
- *@file ŞevvalBilğinProje2
+ *@file ŞevvalBilğin
  * @descriptionkullanıcıların şarkı,çalma listesi ve albümleri beğenip takip
  * edecekleri,aynı zamanda şarkıları indirebileceleri bir müzik yayın
  * uygulamasıdır.
- * @assignment 2.Proje
- * @date 25.11.2022
+ 
  * @author Şevval Bilğin// sevval.bilgin@stu.fsm.edu.tr
  */
 package com.mycompany.test;
